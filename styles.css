@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+main{
+    max-width: 1000px;
+    margin: 0% auto;
+}
+header{
+    background-color: lightcoral;
+    display: flex;
+    align-items: center;
+}
+H1{
+    margin: 0%;
+}
+
+.lindink{
+    list-style: none;
+    margin:0px 20px 10px 100px;
+    float: right;
+    font-size: 100%; 
+}
+thead{
+    background-color: rgb(230, 191, 191);
+    text-align: center;
+}
+.UNIVERSIDADES{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+P{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer{
+    background-color: lightcoral;
+    text-align: center;
+}
